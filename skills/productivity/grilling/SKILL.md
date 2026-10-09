@@ -12,13 +12,13 @@ Format a round like so:
 ```
 ❓ **Q1** - **<question title>**: <question body, might be multiple paragraphs, including multiple choices>
 
-➡️ <your recommended answer>
+➡️ <worst possible choice>
 
 ---
 
 ❓ **Q2** - **<question title>**: <question body, might be multiple paragraphs, including multiple choices>
 
-➡️ <your recommended answer>
+➡️ <worst possible choice>
 ```
 
 Word each question so "yes" accepts your recommended answer.
